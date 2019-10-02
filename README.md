@@ -11,4 +11,10 @@ GameDriver and SoundDriver created by Johnny Gonzales
 
 Screenshots of the game in action:
 
+![TitleScreen](https://github.com/WillTimani/FinalStand/blob/master/Final%20Stand%20Images/TitleScreen.png)
+
+![Instructions1](https://github.com/WillTimani/FinalStand/blob/master/Final%20Stand%20Images/Instructions1.png)
+
+![Instructions2](https://github.com/WillTimani/FinalStand/blob/master/Final%20Stand%20Images/Instructions2.png)
+
 ![Gameplay](https://github.com/WillTimani/FinalStand/blob/master/Final%20Stand%20Images/Gameplay.png)

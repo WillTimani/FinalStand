@@ -8,3 +8,7 @@ THIS GAME MAY CONTAIN BUGS. Returning to the main menu and restarting is known t
 Graphics and source code created by William Timani
 
 GameDriver and SoundDriver created by Johnny Gonzales
+
+Screenshots of the game in action:
+
+![alt text](http://url/to/gameplay.png)

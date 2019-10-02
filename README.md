@@ -11,4 +11,4 @@ GameDriver and SoundDriver created by Johnny Gonzales
 
 Screenshots of the game in action:
 
-![alt text](http://url/to/gameplay.png)
+![alt text](http://url/to/Gameplay.png)
